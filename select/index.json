@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "紅 -青い夜 完全版-(Short.ver.)",
+  "base_artist": "X JAPAN",
+  "createdAt": "2026-01-13T17:25:31.919789Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紅 -X JAPAN RETURNS 完全版 1993.12.30 -(Short.ver.)",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_01_紅_-X_JAPAN_RETURNS_完全版_1993.12.30_-(Short.ver.)_X_JAPAN.txt"
+    }
+  ]
+}
